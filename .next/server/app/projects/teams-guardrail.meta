@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/projects/layout,_N_T_/projects/teams-guardrail/layout,_N_T_/projects/teams-guardrail/page,_N_T_/projects/teams-guardrail"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/projects/teams-guardrail/__PAGE__",
+    "/projects/teams-guardrail",
+    "/projects",
+    "/_index",
+    "/_head"
+  ]
+}

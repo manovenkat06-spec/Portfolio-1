@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/projects/layout,_N_T_/projects/trustlens/layout,_N_T_/projects/trustlens/page,_N_T_/projects/trustlens"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/projects/trustlens/__PAGE__",
+    "/projects/trustlens",
+    "/projects",
+    "/_index",
+    "/_head"
+  ]
+}

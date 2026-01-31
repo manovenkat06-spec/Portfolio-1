@@ -1,0 +1,57 @@
+[00:00:01.954] Server  LOG     ✓ Ready in 1350ms
+[00:00:05.098] Server  LOG     ○ Compiling / ...
+[00:00:06.661] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.750] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:30.781] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:48.520] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:58.976] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:44.762] Server  LOG     ✓ Compiled in 207ms
+[00:03:46.688] Server  LOG     ✓ Compiled in 125ms
+[00:03:55.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:35.454] Server  LOG     ✓ Compiled in 136ms
+[00:10:25.179] Server  LOG     ✓ Compiled in 211ms
+[00:10:46.046] Server  LOG     ✓ Compiled in 409ms
+[00:10:46.119] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:46.120] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:46.478] Server  ERROR   ⨯ ReferenceError: ServicesSection is not defined
+[00:10:46.503] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:46.503] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:46.504] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:46.504] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:46.505] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:46.505] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:46.615] Server  ERROR   ⨯ ReferenceError: ServicesSection is not defined
+[00:10:46.739] Server  ERROR   ⨯ ReferenceError: ServicesSection is not defined
+[00:10:46.835] Server  ERROR   ⨯ ReferenceError: ServicesSection is not defined
+[00:10:47.131] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:47.364] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:47.484] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:47.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:47.660] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:47.898] Server  ERROR   ⨯ ReferenceError: ServicesSection is not defined
+[00:10:47.931] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:47.933] Server  LOG     ✓ Compiled in 165ms
+[00:10:48.188] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:48.306] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:48.318] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:49.305] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:49.307] Browser ERROR   uncaughtError: ReferenceError: ServicesSection is not defined
+[00:10:55.140] Server  LOG     ✓ Compiled in 259ms
+[00:10:55.166] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:55.184] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:55.185] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:55.189] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:56.633] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:56.696] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:56.714] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:56.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:57.131] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:24.860] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:47.314] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:53.965] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:14:47.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:52.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:53.895] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:57.192] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:59.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:00.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
