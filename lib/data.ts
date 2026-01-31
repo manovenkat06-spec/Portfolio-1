@@ -144,7 +144,7 @@ export const PERSON = {
             ]
         }
     ],
-    portrait: "https://i.ibb.co/jPkDRcpd/Whats-App-Image-2025-11-30-at-19-33-18.jpg",
+    portrait: "https://cdn.phototourl.com/uploads/2026-01-31-3c7477de-8167-47b8-9056-1d359d9d665d.jpg",
     education: {
         degree: "B.E. Agricultural Engineering",
         institution: "Sri Shakthi Institute of Engineering and Technology, Coimbatore",
