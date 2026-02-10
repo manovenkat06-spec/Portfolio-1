@@ -27,7 +27,7 @@ export default function FloatingTaskbar() {
 
         const observerOptions = {
             root: null,
-            rootMargin: "-20% 0px -70% 0px",
+            rootMargin: "-30% 0px -40% 0px",
             threshold: 0,
         };
 
@@ -72,6 +72,7 @@ export default function FloatingTaskbar() {
                                 <Link
                                     key={item.name}
                                     href={item.href}
+                                    onClick={() => setActiveSection(item.href.slice(1))}
                                     className="relative p-3 rounded-full group transition-all"
                                 >
                                     {isActive && (
