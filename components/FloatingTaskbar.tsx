@@ -2,13 +2,13 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Home, Briefcase, User, FolderOpen, Mail } from "lucide-react";
+import { Home, Briefcase, User, FolderOpen, Mail, Activity } from "lucide-react";
 import Link from "next/link";
 
 const navItems = [
     { name: "Home", href: "#home", icon: Home },
     { name: "Services", href: "#services", icon: Briefcase },
-    { name: "Process", href: "#process", icon: Briefcase },
+    { name: "Process", href: "#process", icon: Activity },
     { name: "About", href: "#about", icon: User },
     { name: "Portfolio", href: "#work", icon: FolderOpen },
     { name: "Contact", href: "#contact", icon: Mail },
