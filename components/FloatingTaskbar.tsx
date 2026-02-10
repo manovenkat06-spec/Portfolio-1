@@ -2,13 +2,13 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Home, Briefcase, User, FolderOpen, Mail, Activity } from "lucide-react";
+import { Home, Briefcase, User, FolderOpen, Mail, Activity, Target } from "lucide-react";
 import Link from "next/link";
 
 const navItems = [
     { name: "Home", href: "#home", icon: Home },
     { name: "Services", href: "#services", icon: Briefcase },
-    { name: "Process", href: "#process", icon: Activity },
+    { name: "Process", href: "#process", icon: Target },
     { name: "About", href: "#about", icon: User },
     { name: "Portfolio", href: "#work", icon: FolderOpen },
     { name: "Contact", href: "#contact", icon: Mail },
@@ -42,7 +42,7 @@ export default function FloatingTaskbar() {
         const observer = new IntersectionObserver(observerCallback, observerOptions);
 
         // Sections to observe
-        const sections = ["home", "services", "about", "work", "contact"];
+        const sections = ["home", "services", "process", "about", "work", "contact"];
         sections.forEach((id) => {
             const el = document.getElementById(id);
             if (el) observer.observe(el);
